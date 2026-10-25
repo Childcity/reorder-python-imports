@@ -1,7 +1,7 @@
 [![build status](https://github.com/asottile/reorder-python-imports/actions/workflows/main.yml/badge.svg)](https://github.com/asottile/reorder-python-imports/actions/workflows/main.yml)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/asottile/reorder-python-imports/main.svg)](https://results.pre-commit.ci/latest/github/asottile/reorder-python-imports/main)
 
-reorder-python-imports
+reorder-python-imports (compatible with Black formatter)
 ======================
 
 Tool for automatically reordering python imports.  Similar to `isort` but
